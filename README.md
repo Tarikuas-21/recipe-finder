@@ -4,9 +4,9 @@ A React + Vite web application that lets users search for recipes, view details.
  and features a responsive UI designed with Tailwind CSS.
  🚀 Features
 
-Search Recipes: Search for dishes by name using TheMealDB API.
+Search bar: Search for dishes by name using TheMealDB API.
 
-Recipe Grid: View recipes in a responsive card-based grid layout.
+Recipe card: View recipes in a responsive card-based grid layout.
 
 Recipe Details: View ingredients, preparation instructions, embedded YouTube video, and source link.
 
