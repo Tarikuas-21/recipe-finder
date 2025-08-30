@@ -1,15 +1,22 @@
-title - recipe-finder
-The application will allow users to search for recipes based on dish names and view detailed information about each recipe,
-          such as ingredients and preparation instructions.
-Features 
-    Search bar – find dishes by name using TheMealDB API
-    Recipe Cards – display image, category, and short details.
-    Recipe Details Page – see ingredients and cooking instructions.
-    Home page - front page
-Tech Stack
-           React – UI framework
-          Vite – fast development bundler
-          Tailwind CSS– styling
-          TheMealDB API – recipe data source
+🍴 Recipe Finder App
 
+A React + Vite web application that lets users search for recipes, view details. The app integrates with TheMealDB API
+ and features a responsive UI designed with Tailwind CSS.
+ 🚀 Features
+
+Search Recipes: Search for dishes by name using TheMealDB API.
+
+Recipe Grid: View recipes in a responsive card-based grid layout.
+
+Recipe Details: View ingredients, preparation instructions, embedded YouTube video, and source link.
+
+⚙️ Technologies Used
+
+React 18 – Frontend library
+
+Vite – Fast development build tool
+
+Tailwind CSS – Utility-first CSS framework
+
+React Router DOM – Routing for SPA
 
